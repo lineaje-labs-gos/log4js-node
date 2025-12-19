@@ -1,6 +1,6 @@
 {
   "name": "log4js",
-  "version": "5.3.0",
+  "version": "5.3.0-lineaje-01",
   "description": "Port of Log4js to work with node.",
   "homepage": "https://log4js-node.github.io/log4js-node/",
   "files": [
@@ -14,12 +14,18 @@
     "node"
   ],
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "main": "./lib/log4js",
   "types": "./types/log4js.d.ts",
   "author": "Gareth Jones <gareth.nomiddlename@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/log4js-node/log4js-node.git"
+    "url": "https://github.com/lineaje-labs-gos/log4js-node"
   },
   "bugs": {
     "url": "http://github.com/log4js-node/log4js-node/issues"
